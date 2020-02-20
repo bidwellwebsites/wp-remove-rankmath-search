@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Remove Rankmath Search
+ * Plugin Name: Disable RankMath Search
  * Plugin URI: https://bidwellwebsites.com/
  * Description: Removes sitelinks searchbox structured data inserted by RankMath
  * Version: 1.0
